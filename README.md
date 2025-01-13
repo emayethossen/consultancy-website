@@ -1,9 +1,6 @@
-Here’s a detailed **README.md** file for your project. It includes an overview, installation instructions, project structure explanation, and other essential information.
-
----
-### Live Link: https://consultancy-page-psi.vercel.app/
-
 # Care2 Training
+
+### Live Link: https://consultancy-page-psi.vercel.app/
 
 Empowering individuals and teams with tailored training programs to enhance skills, boost confidence, and achieve success.
 
