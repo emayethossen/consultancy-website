@@ -26,6 +26,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({
                         src={image}
                         alt={name}
                         className="w-full h-full rounded-3xl object-cover"
+                        loading="lazy"
                     />
                     <div className="absolute -top-4 -right-4 bg-emerald-500 rounded-full p-2">
                         <Quote className="w-5 h-5 sm:w-6 sm:h-6 text-white" />

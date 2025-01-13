@@ -21,6 +21,7 @@ export function ProcessStep({ number, title, description, imageSrc }: ProcessSte
                             alt={title}
                             fill
                             className="object-contain rounded-full"
+                            loading="lazy"
                         />
                     </div>
                 </div>

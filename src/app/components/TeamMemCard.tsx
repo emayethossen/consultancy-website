@@ -26,6 +26,7 @@ export function TeamMemberCard({
             alt={name}
             fill
             className="object-cover rounded-full"
+            loading="lazy"
           />
         </div>
 
